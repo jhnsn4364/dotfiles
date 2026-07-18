@@ -1,0 +1,12 @@
+syntax on
+set hlsearch
+set ignorecase
+set smartcase
+set linebreak
+set number
+set splitright
+set splitbelow
+set autoindent
+set clipboard+=unnamedplus
+highlight MatchParen ctermbg=45 guibg=black
+highlight MatchParen cterm=underline gui=underline
